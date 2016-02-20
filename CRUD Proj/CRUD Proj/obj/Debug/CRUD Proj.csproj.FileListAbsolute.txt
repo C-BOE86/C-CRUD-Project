@@ -1,0 +1,20 @@
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\CRUD Proj\CRUD Proj\bin\Debug\CRUD Proj.exe.config
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD Proj.csprojResolveAssemblyReference.cache
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD_Proj.Form1.resources
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD_Proj.Properties.Resources.resources
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD Proj.csproj.GenerateResource.Cache
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\CRUD Proj\CRUD Proj\bin\Debug\dadb.accdb
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\CRUD Proj\CRUD Proj\bin\Debug\CRUD Proj.exe
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\CRUD Proj\CRUD Proj\bin\Debug\CRUD Proj.pdb
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD Proj.exe
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD Proj.pdb
+C:\Users\Christopher.Boedicke\Desktop\Projects\C# Projects\CRUD Proj\CRUD Proj\bin\Debug\CRUD Proj.exe.config
+C:\Users\Christopher.Boedicke\Desktop\Projects\C# Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD Proj.exe
+C:\Users\Christopher.Boedicke\Desktop\Projects\C# Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD Proj.pdb
+C:\Users\Christopher.Boedicke\Desktop\Projects\C# Projects\CRUD Proj\CRUD Proj\bin\Debug\dadb.accdb
+C:\Users\Christopher.Boedicke\Desktop\Projects\C# Projects\CRUD Proj\CRUD Proj\bin\Debug\CRUD Proj.exe
+C:\Users\Christopher.Boedicke\Desktop\Projects\C# Projects\CRUD Proj\CRUD Proj\bin\Debug\CRUD Proj.pdb
+C:\Users\Christopher.Boedicke\Desktop\Projects\C# Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD Proj.csprojResolveAssemblyReference.cache
+C:\Users\Christopher.Boedicke\Desktop\Projects\C# Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD_Proj.Form1.resources
+C:\Users\Christopher.Boedicke\Desktop\Projects\C# Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD_Proj.Properties.Resources.resources
+C:\Users\Christopher.Boedicke\Desktop\Projects\C# Projects\CRUD Proj\CRUD Proj\obj\Debug\CRUD Proj.csproj.GenerateResource.Cache
